@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @SiegelSTEM
-- 👀 I’m interested in basic programming for middle school students
-- 🌱 I’m currently learning Python for Tello drones, Arduino projects
+- 👋 Hi, I’m @creekSTEM
+- 👀 I’m interested in basic programming for high school students
+- 🌱 I’m currently learning Python, Arduino projects
 - 💞️ I’m looking to collaborate on education-based projects
 - 📫 How to reach me ... adcockj@rcschools.net
 
